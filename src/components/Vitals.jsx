@@ -1,9 +1,9 @@
-import Navbar from "./Navbar";
+import Navbar1 from "./Navbar1";
 
 const Nvcore = () => {
   return (
     <div>
-        <Navbar />
+        <Navbar1 />
         <div className="flex flex-col items-center justify-center min-h-screen bg-white">
       <h1 className="text-4xl font-bold my-8">Vitals</h1>
 

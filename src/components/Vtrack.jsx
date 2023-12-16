@@ -5,7 +5,7 @@ const Nvcore = () => {
     <div>
         <Navbar1 />
     <div className="flex flex-col items-center justify-center min-h-screen bg-white">
-      <h1 className="text-4xl font-bold my-8">NV-Core</h1>
+      <h1 className="text-4xl font-bold my-8">V-Track</h1>
 
       <div className="bg-white p-20 max-w-screen-lg my-4 border border-gray-300 rounded-lg">
       <div className=" mx-auto">
@@ -77,9 +77,9 @@ const Nvcore = () => {
       </div>
 
        <div className="bg-white p-20 max-w-screen-lg my-4 border border-gray-300 rounded-lg">
-       <div className=" mx-auto">
+       <div className="mx-auto">
       <h2 className="text-4xl font-bold mb-4">Mobile App Features</h2>
-      <ul className="list-disc pl-4">
+      <ul className="list-disc pl-4 text-gray-400">
         <li>App syncs with the device every 1 hour and updates the readings.</li>
         <li>App has the option of adding multiple users.</li>
         <li>App stores the data of an individual user.</li>

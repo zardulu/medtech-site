@@ -5,7 +5,7 @@ const Nvcore = () => {
     <div>
         <Navbar1 />
     <div className="flex flex-col items-center justify-center min-h-screen bg-white">
-      <h1 className="text-4xl font-bold my-8">NV-Core</h1>
+      <h1 className="text-4xl font-bold my-8">V-Track</h1>
 
       <div className="bg-white p-20  max-w-screen-lg my-4 border border-gray-300 rounded-lg">
       <div className="mx-auto">
@@ -36,10 +36,13 @@ const Nvcore = () => {
         />
       </div>
 
-      <div className="bg-white rounded-md max-w-lg p-3 w-full my-4">
+      <div className="bg-white p-20  max-w-screen-lg my-4 border border-gray-300 rounded-lg">
+      <div className="mx-auto">
+      <h2 className="text-4xl font-bold mb-8">Inference</h2>
         <p className="text-gray-500">
         Temperature data will be transmitted to our app, where temperature graphs and logs can be plotted with cloud storage. One can access the previous data as the app has cloud storage.
         </p>
+      </div>
       </div>
     </div>
     </div>
