@@ -5,7 +5,7 @@ const Nvcore = () => {
     <div>
         <Navbar1 />
     <div className="flex flex-col items-center justify-center min-h-screen bg-white">
-      <h1 className="text-4xl font-bold my-8">V-Track</h1>
+      <h1 className="text-4xl font-bold my-8">NV-Core</h1>
 
       <div className="bg-white p-20  max-w-screen-lg my-4 border border-gray-300 rounded-lg">
       <div className="mx-auto">
@@ -27,9 +27,9 @@ const Nvcore = () => {
       <div className="my-4">
         {/* Replace 'YOUR_YOUTUBE_VIDEO_ID' with the actual video ID */}
         <iframe
-          width="600"
-          height="315"
-          src="https://www.youtube.com/embed/YOUR_YOUTUBE_VIDEO_ID"
+          width="800"
+          height="500"
+          src="https://www.youtube.com/embed/JtjKnw9wNuY"
           title="YouTube Video"
           frameBorder="0"
           allowFullScreen

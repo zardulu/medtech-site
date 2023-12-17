@@ -1,6 +1,5 @@
 
 const ImageGrid = () => {
-  // Replace these placeholder URLs with your actual image URLs
   const imageUrls = [
     'https://yantrammedtech.com/assets/img1-21a60f29.png',
     'https://yantrammedtech.com/assets/img2-a3a557a2.png',
